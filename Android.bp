@@ -1614,7 +1614,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-	name: "vendor.samsung.hardware.radio@2.0",
+	name: "vendor.samsung.hardware.radio@2.0.exynos990",
 	owner: "samsung",
 	strip: {
 		none: true,
@@ -1631,7 +1631,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-	name: "vendor.samsung.hardware.radio@2.1",
+	name: "vendor.samsung.hardware.radio@2.1.exynos990",
 	owner: "samsung",
 	strip: {
 		none: true,
